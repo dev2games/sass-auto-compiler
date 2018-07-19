@@ -8,3 +8,9 @@ Requirements
 - Node.js 
 - Sass node module (npm install -g sass)
 - Python 3
+
+How to run
+
+In the command line type
+
+python ./main.py
