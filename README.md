@@ -11,6 +11,6 @@ Requirements
 
 How to run
 
-In the command line type
+cd into the directory of the program and in the command line type
 
 python ./main.py
